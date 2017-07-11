@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body{
+	margin:0px;
+	background:peach;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color:DimGray;
+}
+a {
+	font-size: 50%;
+}
+h1{
+	color:salmon;
+	font-size: 100%;
+}
+
+h3 {
+	color:DarkSeaGreen;
+	font-size: 200%;
+	text-transform: uppercase;
+}
+
+h4 {
+	color:orange;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 90%;
+}
+
